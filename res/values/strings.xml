@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, KBCActivity!</string>
+    <string name="app_name">Be A Millionare</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="green_bar">Select a barrier</string>
+    <string name="question_page">Quiz</string>
+</resources>

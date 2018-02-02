@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KBC>
+
+<question question = "Brass gets discoloured in air because of the presence of which of the following gases in air?" option = "Oxygen~Hydrogen sulphide~Carbon dioxide~Nitrogen" ans = "1" />
+
+<question question = "Which of the following is a non metal that remains liquid at room temperature?" option = "Phosphorous~Bromine~Chlorine~Helium" ans = "1" />
+
+<question question = "Chlorophyll is a naturally occurring chelate compound in which central metal is" option = "copper~magnesium~iron~calcium" ans = "1" />
+
+<question question = "Which of the following is used in pencils?" option = "Graphite~Silicon~Charcoal~Phosphorous" ans = "0" />
+
+<question question = "Which of the following metals forms an amalgam with other metals?" option = "Tin~Mercury~Lead~Zinc" ans = "1" />
+
+<question question = "Chemical formula for water is" option = "NaA1O2~H2O~Al2O3~CaSiO3" ans = "1" />
+
+<question question = "The gas usually filled in the electric bulb is" option = "nitrogen~hydrogen~carbon dioxide~oxygen" ans = "0" />
+
+<question question = "Washing soda is the common name for" option = "Sodium carbonate~Calcium bicarbonate~Sodium bicarbonate~Calcium carbonate" ans = "0" />
+
+<question question = "Quartz crystals normally used in quartz clocks etc. is chemically" option = "silicon dioxide~germanium oxide~a mixture of germanium oxide and silicon dioxide~sodium silicate" ans = "0" />
+
+<question question = "Which of the gas is not known as green house gas?" option = "Methane~Nitrous oxide~Carbon dioxide~Hydrogen" ans = "3" />
+
+<question question = "Bromine is a" option = "black solid~red liquid~colourless gas~highly inflammable gas" ans = "1" />
+
+<question question = "The hardest substance available on earth is" option = "Gold~Iron~Diamond~Platinum" ans = "2" />
+
+<question question = "The variety of coal in which the deposit contains recognisable traces of the original plant material is" option = "bitumen~anthracite~lignite~peat" ans = "3" />
+
+<question question = "Tetraethyl lead is used as" option = "pain killer~fire extinguisher~mosquito repellent~petrol additive" ans = "3" />
+
+<question question = "Which of the following is used as a lubricant?" option = "Graphite~Silica~Iron Oxide~Diamond" ans = "0" />
+
+<question question = "The inert gas which is substituted for nitrogen in the air used by deep sea divers for breathing, is" option = "Argon~Xenon~Helium~Krypton" ans = "2" />
+
+<question question = "The gases used in different types of welding would include" option = "oxygen and hydrogen~oxygen, hydrogen, acetylene and nitrogen~oxygen, acetylene and argon~oxygen and acetylene" ans = "3" />
+
+<question question = "The property of a substance to absorb moisture from the air on exposure is called" option = "osmosis~deliquescence~efflorescence~desiccation" ans = "1" />
+
+<question question = "In which of the following activities silicon carbide is used?" option = "Making cement and glass~Disinfecting water of ponds~cutting very hard substances~Making casts for statues" ans = "2" />
+
+<question question = "The average salinity of sea water is" option = "3%~3.5%~2.5%~2%" ans = "1" />
+
+<question question = "When an iron nail gets rusted, iron oxide is formed" option = "without any change in the weight of the nail~with decrease in the weight of the nail~with increase in the weight of the nail~without any change in colour or weight of the nail" ans = "2" />
+
+<question question = "Galvanised iron sheets have a coating of" option = "lead~chromium~zinc~tin" ans = "2" />
+
+<question question = "Among the various allotropes of carbon," option = "coke is the hardest, graphite is the softest~diamond is the hardest, coke is the softest~diamond is the hardest, graphite is the softest~diamond is the hardest, lamp black is the softest" ans = "2" />
+
+<question question = "The group of metals Fe, Co, Ni may best called as" option = "transition metals~main group metals~alkali metals~rare metals" ans = "0" />
+
+<question question = "Heavy water is" option = "deuterium oxide~PH7~rain water~tritium oxide" ans = "0" />
+
+<question question = "The chemical (ethyl mercaptan) added to the otherwise odourless LPG cooking gas for imparting a detectable smell to the gas is a compound of" option = "bromine~fluorine~chlorine~sulphur" ans = "3" />
+
+<question question = "The element common to all acids is" option = "hydrogen~carbon~sulphur~oxygen" ans = "0" />
+
+<question question = "Non stick cooking utensils are coated with" option = "Teflon~PVC~black paint~polystyrene" ans = "0" />
+
+<question question = "Monazite is an ore of" option = "titanium~zirconium~iron~thorium" ans = "3" />
+
+<question question = "Carbon, diamond and graphite are together called" option = "allotropes~isomers~isomorphs~isotopes" ans = "0" />
+
+<question question = "Potassium nitrate is used in" option = "medicine~fertiliser~salt~glass" ans = "1" />
+
+<question question = "Permanent hardness of water may be removed by the addition of" option = "sodium carbonate~alum~potassium permanganate~lime" ans = "0" />
+
+<question question = "Soda water contains" option = "carbonic acid~sulphuric acid~carbon dioxide~nitrous acid" ans = "2" />
+
+<question question = "The most important ore of aluminium is" option = "galena~calamine~calcite~bauxite" ans = "3" />
+
+<question question = "Most soluble in water is" option = "camphor~sulphur~common salt~sugar" ans = "3" />
+
+<question question = "Which of the following was to be discovered first in the chromospheres of the sun?" option = "Krypton~Xenon~Neon~Helium" ans = "3" />
+
+<question question = "Which of the following is in liquid form at room temperature?" option = "Lithium~Sodium~Francium~Cerium" ans = "2" />
+
+<question question = "Sodium metal is kept under" option = "petrol~alcohol~water~kerosene" ans = "3" />
+
+<question question = "Which of the following are the ingredients of gun metal?" option = "Iron, Zinc, Titanium~Iron, tin~Iron, Brass, Tin~Copper, Tin" ans = "3" />
+
+<question question = "From which mineral is radium obtained?" option = "Rutile~Haematite~Limestone~Pitchblende" ans = "3" />
+
+<question question = "What is laughing gas?" option = "Nitrous Oxide~Carbon monoxide~Sulphur dioxide~Hydrogen peroxide" ans = "0" />
+
+<question question = "Actinides are the elements with atomic numbers from" option = "97 to 104~101 to 115~89 to 103~36 from 43" ans = "2" />
+
+<question question = "The two elements that are frequently used for making transistors are" option = "boron and aluminium~silicon and germanium~iridium and tungsten~niobium and columbium" ans = "1" />
+
+<question question = "The filament of an electric bulb is made of" option = "tungsten~nichrome~graphite~iron" ans = "0" />
+
+<question question = "Diamond is an allotropic form of" option = "germanium~carbon~silicon~sulphur" ans = "1" />
+
+<question question = "In fireworks, the green flame is produced because of" option = "sodium~barium~mercury~potassium" ans = "1" />
+
+<question question = "Permanent hardness of water can be removed by adding" option = "chlorine~washing soda~potassium permanganate~bleaching powder" ans = "1" />
+
+<question question = "Marsh gas is" option = "nitrogen~ethane~methane~hydrogen" ans = "2" />
+
+<question question = "LPG consists of mainly" option = "methane, ethane and hexane~ethane, hexane and nonane~methane, hexane and nonane~methane, butane and propane" ans = "3" />
+
+<question question = "Air is a/an" option = "compound~element~electrolyte~mixture" ans = "3" />
+
+<question question = "Production of chlorofluorocarbons (CFC) gas which is proposed to be banned in India, is used in which of the following domestic products?" option = "Television~Refrigerator~Tube light~Cooking gas" ans = "1" />
+
+<question question = "Balloons are filled with" option = "nitrogen~helium~oxygen~argon" ans = "1" />
+
+<question question = "Which of the following does not contain a coinage metal?" option = "Silver and Gold~Zinc and Gold~Copper and Silver~Copper and Gold" ans = "1" />
+
+<question question = "Which metal pollute the air of a big city?" option = "Copper~Chromium~Lead~Cadmium" ans = "2" />
+
+<question question = "Bell metal is an alloy of" option = "nickel and copper~zinc and copper~brass and nickel~tin and copper" ans = "3" />
+
+<question question = "Water is a good solvent of ionic salts because" option = "it has a high specific heat~it has no colour~it has a high dipole moment~it has a high boiling point" ans = "2" />
+
+<question question = "Which of the following is not an isotope of hydrogen?" option = "Tritium~Deuterium~Protium~Yttrium" ans = "3" />
+
+<question question = "The main constituents of pearls are" option = "calcium oxide and ammonium chloride~calcium carbonate and magnesium carbonate~aragonite and conchiolin~ammonium sulphate and sodium carbonate" ans = "1" />
+
+<question question = "Amalgams are" option = "highly coloured alloys~alloys which contain mercury as one of the contents~alloys which have great resistance to abrasion~alloys which contain carbon" ans = "1" />
+
+<question question = "Which of the following is the lightest metal?" option = "Mercury~Lithium~Lead~Silver" ans = "1" />
+
+<question question = "Which of the following metals remain in liquid for under normal conditions?" option = "Radium~Zinc~Uranium~Mercury" ans = "3" />
+
+<question question = "Potassium Permanganate is used for purifying drinking water, because" option = "it is a sterilising agent~it dissolves the impurities of water~it is a reducing agent~it is an oxidising agent" ans = "3" />
+
+<question question = "Which of the following is an element?" option = "Ruby~Sapphire~Emerald~Diamond" ans = "3" />
+
+<question question = "Who invented the BALLPOINT PEN?" option = "Biro Brothers~Waterman Brothers~Bicc Brothers~Write Brothers" ans = "0" />
+
+<question question = "In which decade was the first solid state integrated circuit demonstrated?" option = "1950s~1960s~1970s~1980s" ans = "0" />
+
+<question question = "What J. B. Dunlop invented?" option = "Pneumatic rubber tire~Automobile wheel rim~Rubber boot~Model airplanes" ans = "0" />
+
+<question question = "Which scientist discovered the radioactive element radium?" option = "Isaac Newton~Albert Einstein~Benjamin Franklin~Marie Curie" ans = "3" />
+
+<question question = "When was barb wire patented?" option = "1874~1840~1895~1900" ans = "0" />
+
+<question question = "What is the name of the CalTech seismologist who invented the scale used to measure the magnitude of earthquakes?" option = "Charles Richter~Hiram Walker~Giuseppe Mercalli~Joshua Rumble" ans = "0" />
+
+<question question = "What Galileo invented?" option = "Barometer~Pendulum clock~Microscope~Thermometer" ans = "3" />
+
+<question question = "This statesman, politican, scholar, inventor, and one of early presidents of USA invented the swivel chair, the spherical sundial, the moldboard plow, and the cipher wheel." option = "George Washington~Alexander Hamilton~John Adams~Thomas Jefferson" ans = "3" />
+
+<question question = "What James Watt invented?" option = "Diving bell~Steam boat~Hot air balloon~Rotary steam engine" ans = "3" />
+
+<question question = "Where is the village of Branston, after which the famous pickle is named?" option = "Yorkshire~Lancashire~Staffordshire~Norfolk" ans = "2" />
+
+<question question = "Who invented Jet Engine?" option = "Sir Frank Whittle~Gottlieb Daimler~Roger Bacon~Lewis E. Waterman" ans = "0" />
+
+<question question = "What invention caused many deaths while testing it?" option = "Dynamite~Ladders~Race cars~Parachute" ans = "3" />
+
+<question question = "Who invented Gunpowder?" option = "G. Ferdinand Von Zeppelin~Sir Frank Whittle~Roger Bacon~Leo H Baekeland" ans = "2" />
+
+<question question = "Until Victorian times, chocolate was thought of as a drink. When did the first chocolate bar appear?" option = "1828~1831~1825~There is no sure date" ans = "3" />
+
+<question question = "In which decade was the telephone invented?" option = "1850s~1860s~1870s~1880s" ans = "2" />
+
+<question question = "Who perfected GENETIC ENGINEERING?" option = "Cohen and Boyer~Hunt and Davids~Sinclair and Roberts~Jaysson and Simons" ans = "0" />
+
+<question question = "What now-ubiquitous device was invented by Zenith engineer Eugene Polley in 1955?" option = "Microwave oven~Remote control~VCR~Calculator" ans = "1" />
+
+<question question = "What Benjamin Franklin invented?" option = "Bifocal spectacles~Radio~Barometer~Hygrometer" ans = "0" />
+
+<question question = "This part-time race car driver invented the bucket seat in 1969. Who was he??" option = "Steve McQueen~Harrison Frazier~Paul Newman~John Wayne" ans = "0" />
+
+<question question = "What plaything was invented by Joe McVicker in 1956?" option = "Silly Putty~Etch-A-Sketch~Lite-Brite~Play-Doh" ans = "3" />
+
+<question question = "Who was the first American female to patent her invention, a method of weaving straw with silk?" option = "Marjorie Joyner~Margaret Knight~Amanda Jones~Mary Kies" ans = "3" />
+
+<question question = "Who invented Gramophone?" option = "Michael Faraday~Fahrenheit~Sir Alexander Graham Bell~Thomas Alva Edison" ans = "3" />
+
+<question question = "Who invented Internal Combustion Engine?" option = "Roger Bacon~Karl Benz~Dr. Alan M. Turing~Otto" ans = "3" />
+
+<question question = "When was Monopoly created?" option = "1940s~1930s~1920s~1950s" ans = "1" />
+
+<question question = "What furniture item was invented by California furniture designer Charles Prior Hall in 1968?" option = "Sofa bed~Captain's chair~Waterbed~Hammock" ans = "2" />
+
+<question question = "The Manhattan Project was started by President Roosevelt in 1942 to ensure that the U.S. beat the Germans in developing a nuclear bomb. Whom did Roosevelt appoint as scientific head the Manhattan Project?" option = "Robert Oppenheimer~James B. Conant~Leslie R. Groves~Vannevar Bush" ans = "0" />
+
+<question question = "When was the first lawn mower invented?" option = "1830~1854~1835~1849" ans = "0" />
+
+<question question = "In which decade were the first successful diode and triode vacuum tubes invented?" option = "1800s~1880s~1890s~1900s" ans = "3" />
+
+<question question = "Who is the English physicist responsible for the 'Big Bang Theory'?" option = "Albert Einstein~Michael Skube~George Gamow~Roger Penrose" ans = "2" />
+
+<question question = "What 'game' was first produced by the Southern Novelty Company in Baltimore, Maryland in 1892?" option = "Frisbee~Monopoly~Ouija board~Ping Pong" ans = "2" />
+
+<question question = "Who had an explosive idea and first patented DYNAMITE?" option = "J. R. Gluber~A. Nobel~G. Fawks~W. Bickford" ans = "1" />
+
+<question question = "Who invented the Spinning Jenny?" option = "Thornton Hargreaves~Peter Hargreaves~James Hargreaves~Simon Hargreaves" ans = "2" />
+
+<question question = "Which insurance salesman invented the fountain pen in 1884?" option = "Lewis Edson Waterman~Sir William Grove~Charles Kettering~George Fountain" ans = "0" />
+
+<question question = "When was the first elevator built?" option = "1743~1739~1760~1785" ans = "0" />
+
+<question question = "What charge card, developed in 1950, was the first to be accepted nationally in the US?" option = "Visa~Discover~MasterCharge~Diner's Club" ans = "3" />
+
+<question question = "What Enrico Fermi invented?" option = "X ray machine~Betatron~Cyclotron~Nuclear reactor" ans = "3" />
+
+<question question = "Which of the following was first patented by an Australian in 1889?" option = "Electric Drill~Electric Shaver~Electric Fence~Electric Heater" ans = "0" />
+
+<question question = "Who among the following invented the small pox vaccine?" option = "Robert Koch~Edward Jenner~Robert Hooke~Louis Pasteur" ans = "1" />
+
+<question question = "What George Westinghouse invented?" option = "Light bulb~Electric razor~Refrigerator~Railway air brakes" ans = "3" />
+
+<question question = "Who is the only U.S. President to invent and patent something?" option = "Abraham Lincoln~Theodore Roosevelt~Thomas Jefferson~Rutherford B. Hayes" ans = "0" />
+
+<question question = "What invention is credited to the Russian born American inventor Vladimir Kosma Zworykin?" option = "Telegraph~Radio~Television~Dishwasher" ans = "2" />
+
+<question question = "Benjamin Franklin was a prolific inventor. He invented the lightning rod, the Franklin stove, studied electricity, discovered the Gulf Stream, started the first library, and on and on. Among his many other inventions, what musical instrument did he invent?" option = "Banjo~Oboe~Clarinet~Harmonium" ans = "3" />
+
+<question question = "What Thomas Davenport invented?" option = "Screw propellor~Electric streetcar~Chesterfield~Sleeping (railway) car" ans = "1" />
+
+<question question = "What Elisha Otis invented?" option = "The brake used in modern elevators~Jet Engine~Turbine~Hydraulic Crane" ans = "0" />
+
+<question question = "Where was the yo-yo invented?" option = "France~United States~Philippines~England" ans = "2" />
+
+<question question = "For what does the world owe Almon Strowger a debt of gratitude?" option = "Parking Meters~Vending Machines~Automatic Telephone Exchanges~Traffic Lights" ans = "2" />
+
+<question question = "Who is often called the 'first African-American' inventor?" option = "Bessie Blount~George Washington Carver~Benjamin Banneker~Elijah McCoy" ans = "2" />
+
+<question question = "The first hand glider was designed by...?" option = "Leonardo DaVinci~The Wright brothers~Francis Rogallo~Galileo" ans = "0" />
+
+<question question = "When was the first elevator built?" option = "1743~1739~1760~1785" ans = "0" />
+
+<question question = "What charge card, developed in 1950, was the first to be accepted nationally in the US?" option = "Visa~Discover~MasterCharge~Diner's Club" ans = "3" />
+
+<question question = "What Enrico Fermi invented?" option = "X ray machine~Betatron~Cyclotron~Nuclear reactor" ans = "3" />
+
+<question question = "Which of the following was first patented by an Australian in 1889?" option = "Electric Drill~Electric Shaver~Electric Fence~Electric Heater" ans = "0" />
+
+<question question = "Who among the following invented the small pox vaccine?" option = "Robert Koch~Edward Jenner~Robert Hooke~Louis Pasteur" ans = "1" />
+
+<question question = "What George Westinghouse invented?" option = "Light bulb~Electric razor~Refrigerator~Railway air brakes" ans = "3" />
+
+<question question = "Who is the only U.S. President to invent and patent something?" option = "Abraham Lincoln~Theodore Roosevelt~Thomas Jefferson~Rutherford B. Hayes" ans = "0" />
+
+<question question = "In which decade was the telegraph invented?" option = "1810s~1840s~1870s~1890s" ans = "1" />
+
+<question question = "What inspired reflecting road lights to be invented?" option = "Car door reflecting mirrors~The light a cat's eyes gave off on a fence~Sun light on steel posts on road sides~The sun light on the windshield" ans = "1" />
+
+<question question = "When were blue jeans invented?" option = "1900s~1860s~1870s~1850s" ans = "3" />
+
+<question question = "Who invented Electric Generator?" option = "Sir Alexander Graham Bell~Michael Faraday~Alfred B. Nobel~Thomas Alva Edison" ans = "1" />
+
+<question question = "What device for new parents did Ann Moore invent in 1969?" option = "Bottle warmer~Baby monitor~Disposable diaper~Infant carrier" ans = "3" />
+
+<question question = "In which decade was the transistor invented?" option = "1940s~1950s~1960s~1980s" ans = "0" />
+
+<question question = "What Igor Sikorsky invented?" option = "Hydroplane~Jet engine airplane~Helicopter~Glider" ans = "2" />
+
+<question question = "What Henry Bessemer invented?" option = "Aluminum~Electroplating~Steel Converter~Steel rolling mill" ans = "2" />
+
+<question question = "What invention was first installed at a Hartford, Connecticut bank in 1889?" option = "Automatic teller machine~Time-lock safe~Burglar alarm~Pay telephone" ans = "3" />
+
+<question question = "Ralph Samuelson was only 18 when he invented this sporting item in 1922. What was that?" option = "Golf tee~Motorboat~Water skis~Hang glider" ans = "2" />
+
+<question question = "Who invented Bifocal Lens?" option = "Alfred B. Nobel~Thomas Alva Edison~Benjamin Franklin~Rudolf Diesel" ans = "2" />
+
+<question question = "What Karl Benz invented?" option = "Gasoline powered automobile~Streetcar~Glider~Steam turbine" ans = "0" />
+
+<question question = "When were bar code scanners invented?" option = "1940s~1950s~1970s~1960s" ans = "2" />
+
+<question question = "When was the game Frisbee invented?" option = "1920s~1900s~1870s~1890s" ans = "2" />
+
+<question question = "This English inventor is known as the 'Father of Computing.'" option = "Philo Farnsworth~J. Presper Eckert~John Mauchly~Charles Babbage" ans = "3" />
+
+<question question = "Who invented Airship (rigid)?" option = "Dr. Alan M. Turing~Roger Bacon~G. Ferdinand Von Zeppelin~Otto" ans = "2" />
+
+<question question = "What piece of clothing was invented by French fashion designer Louis Reard in 1946?" option = "Zoot suit~Mini-skirt~Bikini~Tank top" ans = "2" />
+
+<question question = "In which year was MIDI introduced?" option = "1987~1983~1973~1977" ans = "1" />
+
+<question question = "In which decade was the SPICE simulator introduced?" option = "1950s~1960s~1970s~1980s" ans = "2" />
+
+<question question = "Who invented the first controllable flying AEROPLANE (AIRPLANE)?" option = "Wright Brothers~Lidenbergh Brothers~South Brothers~West Brothers" ans = "0" />
+
+<question question = "What groovy item was invented by Englishman Edward Craven Walker in 1963?" option = "Leisure suit~Lava lamp~Eight-track tape deck~Hot comb" ans = "1" />
+
+<question question = "In which decade was the Internet first implemented?" option = "1940s~1950s~1960s~1980s" ans = "2" />
+
+<question question = "What did cardiologist Dr. Paul Zoll invent in Massachusetts in 1952?" option = "EKG~Artificial heart valve~Artificial heart~Pacemaker" ans = "3" />
+
+<question question = "What Elmer A. Sperry invented?" option = "Hydroplane~Hydraulic turbine~Magnetic compass~Gyrocompass" ans = "3" />
+
+<question question = "For over 500 years, paper was only available and sold as single sheets. In 1902, an inventive Australian used half size sheets of paper, a bit of glue and cardboard to create the what?" option = "Notepad~Calendar~Notice Board~Telephone Book" ans = "0" />
+
+<question question = "Who developed the idea of Crop Rotation?" option = "Potato Peterson~Turnip Townsend~Cabbage Carlson~Swede Svenson" ans = "1" />
+
+<question question = "CORN FLAKES - Who made them first?" option = "Nabisco~Kellogg~Quaker~Archers" ans = "1" />
+
+<question question = "William Frederick is credited with the invention of the modern frisbee in the mid 1950's. In 1957 the Wham-O Company bought his idea and the rest is history. They named the toy after William Frisbie who was a ________?" option = "Pie maker~Owner of a pizza parlor~Student at Yale~Ceramic plate designer" ans = "0" />
+
+<question question = "Who came up with the idea for INSTANT MASHED POTATO?" option = "S. Tuberosum~W. Raleigh~E. Asselbergs~K. Edwards" ans = "2" />
+
+<question question = "Who invented Dynamite?" option = "Sir Alexander Graham Bell~Benjamin Franklin~Thomas Alva Edison~Alfred B. Nobel" ans = "3" />
+
+<question question = "What toy did George Lerner create for Hasbro company in 1952?" option = "Sit and Spin~Talking baby doll~Mr. Potato Head~Hula hoop" ans = "2" />
+
+<question question = "For whom high heeled shoes were invented?" option = "Cleopatra~Queen Elizabeth I~King Louis the XIV~King Charles II" ans = "2" />
+
+<question question = "What African-American inventor received 5 patents in the field of shoemaking?" option = "Elijah McCoy~Jan Ernst Matzeliger~Ernest Just~Lewis Latimer" ans = "1" />
+
+<question question = "It travels over land and water. Who invented the HOVERCRAFT?" option = "S. Sperrow~O. Stricheg~T. Henman~C. Cockerell" ans = "3" />
+
+<question question = "In which decade was the AEEE (now the IEEE) founded?" option = "1850s~1880s~1930s~1950s" ans = "1" />
+
+<question question = "What type of system did Paul Nipkow, John Baird, and Charles Jenkins all invent?" option = "Telephone~Early Warning~Electricity~Television" ans = "3" />
+
+<question question = "What Sir Isaac Newton invented?" option = "Reflecting telescope~Chronometer~Microscope~Spectacles" ans = "0" />
+
+<question question = "Who invented Bicycle?" option = "Leo H Baekeland~Karl Benz~Evangelista Torricelli~Kirkpatrick Macmillan" ans = "3" />
+
+<question question = "In which decade with the first transatlantic radio broadcast occur?" option = "1850s~1860s~1870s~1900s" ans = "3" />
+
+<question question = "In the 1700s, who would pay the postage fee for letters before the stamp was invented?" option = "The sender~There was no fee~The receiver of the letter~The post office" ans = "2" />
+
+<question question = "Who synthesized the first wholly artificial gene?" option = "Hargobind Khorana~J.J. Thompson~Benjamin Franklin~Meghnad Saha" ans = "0" />
+
+<question question = "FROZEN FOOD - Who discovered the first practical method of freezing food?" option = "C. Birdseye~F. Rozenosh~G. Findus~R. Scott" ans = "0" />
+
+<question question = "When was the Raggedy Ann doll patented?" option = "1915~1920~1919~1911" ans = "0" />
+
+<question question = "What Frank Whittle invented?" option = "Radar~Ethyl gasoline~Sonar~Jet propulsion" ans = "3" />
+
+<question question = "When was the first Lionel trains manufactured?" option = "1920~1890~1901~1944" ans = "2" />
+
+<question question = "What item, originally called the 'Whirlwind', was invented by Ives McGaffey in 1869?" option = "Blender~Electric mixer~Washing machine~Vacuum cleaner" ans = "3" />
+
+<question question = "What office item was invented by Bette Nesmith Graham in 1951?" option = "Fax machine~Stapler~Liquid Paper~Copy machine" ans = "2" />
+
+<question question = "What George Pullman invented?" option = "Sleeping (railway) car~Airship~Box car (railway)~Air brakes" ans = "0" />
+
+<question question = "Who invented Bakelite?" option = "Charles Goodyear~Leo Hendrik Baekeland~Roy Plunkett~Henry Ford" ans = "1" />
+
+<question question = "What toy was invented by Joshua Lionel Cowen around 1900?" option = "Raggedy Ann doll~Yo-yo~Electric train~Tinkertoys" ans = "2" />
+
+<question question = "This African-American woman physical therapist worked with soldiers disabled in World War II. She invented a device that helped the disabled to eat by delivering food through a tube to a mouthpiece." option = "Bessie Blount~Marjorie Joyner~Mae Jamison~Beulah Henry" ans = "0" />
+
+<question question = "What invention by Garnet Carter made its debut at the Fairyland Inn Resort in Lookout Mountain, Tennessee, in 1927?" option = "Miniature golf~Swimming pool slide~Ski lift~Golf cart" ans = "0" />
+
+<question question = "Who invented the phonograph?" option = "Thomas Edison~John Kruesi~Jules Levy~Alexander Graham Bell" ans = "1" />
+
+<question question = "What beverage was invented by Charles Alderton in 1885 in Waco, Texas?" option = "Cream soda~Coca-Cola~Dr. Pepper~Sprite" ans = "2" />
+
+<question question = "Who invented fuel cells in 1839?" option = "Buckminster Fuller~Sir William Grove~Sylvester Graham~Joyce Hall" ans = "1" />
+
+<question question = "The ELECTRIC BATTERY, who's charged with inventing this one?" option = "Hertz~Amper~Galvani~Volta" ans = "3" />
+
+<question question = "In which decade was the ARRL founded?" option = "1940s~1930s~1920s~1910s" ans = "3" />
+
+<question question = "Who invented the Seed Drill?" option = "Jethro Tull~Arlo Guthrie~Woodie Guthrie~Thomas Hines" ans = "0" />
+
+<question question = "What drink was invented by Charles Leiper Grigg in 1929?" option = "7-Up~Yoo-Hoo~Pepsi~Hawaiian Punch" ans = "0" />
+
+<question question = "For what is Charles Babbage (1792-1871) remembered?" option = "Computers~Telescopes~Radio-Telegraphy~Steam Boating" ans = "0" />
+
+<question question = "Who invented Automobiles using gasoline?" option = "Leo H Baekeland~Karl Benz~Evangelista Torricelli~Kirkpatrick Macmillan" ans = "1" />
+
+<question question = "Who invented the battery?" option = "John Wilkinson~Alessandro Volta~James Hargreaves~Thomas Edison" ans = "1" />
+
+<question question = "Where were wigs first invented?" option = "Japan~France~Egypt~China" ans = "2" />
+
+<question question = "Who was the first person to patent the JET ENGINE?" option = "F. Whittle~C. Lindbergh~W. Histell~B. Owings" ans = "0" />
+
+<question question = "The initials JCB on earth-moving equipment are those of the founder of the company that makes it. What is his name?" option = "John Christopher Ballantyne~Joseph Cyril Bamford~John Christopher Baxter~Jack Croxford Baker" ans = "1" />
+
+<question question = "What treat was invented by 11-year-old Frank Epperson in 1905?" option = "Popsicle~Banana split~Cotton candy~Cracker Jacks" ans = "0" />
+
+<question question = "When was Milk Tray first introduced?" option = "1915~1934~1923~1942" ans = "0" />
+
+<question question = "When was the toothbrush invented?" option = "1770~1765~1790~1742" ans = "0" />
+
+<question question = "What item of apparel was invented by Ellery Chun, a Hawaiian clothing merchant, in 1931?" option = "String bikini~Muumuu~Aloha shirt~Capri pants" ans = "2" />
+
+<question question = "Who invented Fountain Pen?" option = "John J. Loud~Sir Frank Whittle~Lewis E. Waterman~Kirkpatrick Macmillan" ans = "2" />
+
+<question question = "The Homolographic projection has the correct representation of" option = "shape~area~baring~distance" ans = "1" />
+
+<question question = "The latitudinal differences in pressure delineate a number of major pressure zones, which correspond with" option = "zones of climate~zones of oceans~zones of land~zones of cyclonic depressions" ans = "0" />
+
+<question question = "The higher the wind speed and the longer the fetch or distance of open water across which the wind blows and waves travel, the ____ waves and the ____ enerty they prosses." option = "larger, more~larger, less~smaller, more~smaller, less" ans = "0" />
+
+<question question = "The hazards of radiation belts include" option = "deterioration of electronic circuits~damage of solar cells of spacecraft~adverse effect on living organisms~All of the above" ans = "3" />
+
+<question question = "The great Victoria Desert is located in" option = "Canada~West Africa~Australia~North America" ans = "2" />
+
+<question question = "The intersecting lines drawn on maps and globes are" option = "latitudes~longitudes~geographic grids~None of the above" ans = "2" />
+
+<question question = "The light of distant stars is affected by" option = "the earth's atmosphere~interstellar dust~both (a) and (b)~None of the above" ans = "2" />
+
+<question question = "The landmass of which of the following continents is the least?" option = "Africa~Asia~Australia~Europe" ans = "2" />
+
+<question question = "Without ____ the equator would be much hotter than it is while the poles would be much cooler." option = "latitudinal redistribution of heat~cycle of air circulation~global wind pattern~All are similar terms" ans = "3" />
+
+<question question = "The habitats valuable for commercially harvested species are called" option = "coral reefs~sea grass bed~hot spots~None of the above" ans = "1" />
+
+<question question = "Which of the following is tropical grassland?" option = "Taiga~Savannah~Pampas~Prairies" ans = "1" />
+
+<question question = "With the disintegration of USSR in end 1991, comprised of ____ Union Republics." option = "15~10~5~25" ans = "0" />
+
+<question question = "The iron and steel industries of which of the following countries are almost fully dependent on imported raw materials?" option = "Britain~Japan~Poland~Germany" ans = "1" />
+
+<question question = "The land use in an arc changes with the time because of change in the" option = "fertility of land~quality of land~utility of land~price of land" ans = "0" />
+
+<question question = "The temperature increases rapidly after" option = "ionosphere~exosphere~stratosphere~troposphere" ans = "0" />
+
+<question question = "The humidity of the air depends upon" option = "temperature~location~weather~All of the above" ans = "3" />
+
+<question question = "The groundwater can become confined between two impermeable layers. This type of enclosed water is called" option = "artesian~artesian well~unconfined groundwater~confined groundwater" ans = "0" />
+
+<question question = "The largest glaciers are" option = "mountain glaciers~alpine glaciers~continental glaciers~piedmont glaciers" ans = "2" />
+
+<question question = "The ionosphere includes" option = "mesosphere~thermosphere~thermosphere and exosphere~thermosphere, exosphere and mesosphere" ans = "2" />
+
+<question question = "The highest degree of concentration of mineral deposits are found in" option = "northeastern zone~northwestern zone~southern zone~All of the above" ans = "0" />
+
+<question question = "The group of minerals chemically containing hydrocarbons is" option = "silicate group~organic group~oxide group~hydride group" ans = "1" />
+
+<question question = "The iron ore mined at Bailadila is mostly" option = "haematite~siderite~limonite~magnetic" ans = "0" />
+
+<question question = "The leading state in producing paper is" option = "Bihar~West Bengal~Kerala~Orissa" ans = "1" />
+
+<question question = "The largest dune files are found in" option = "Middle East~North Africa~both (a) and (b)~None of the above" ans = "2" />
+
+<question question = " The largest gold producing country in the world is" option = "China~Canada~South Africa~USA" ans = "0" />
+
+<question question = " The least explosive type of volcano is called" option = "Basalt plateau~Cinder cone~Shield volcanoes~Composite volcanoes" ans = "0" />
+
+<question question = " The largest fish exporting region in the world is" option = "the north-east atlantic region~the north-east pacific region~the north-west pacific region~the south-east asian region" ans = "0" />
+
+<question question = " The largest country of the world by geographical area is" option = "Russia~Vatican City~Australia~USA" ans = "0" />
+
+<question question = " The hot and cold deserts together occupy nearly ____ land area of the world." option = "1/2~1/4th~1/3rd~3/4th" ans = "2" />
+
+<question question = " The highest average salinity amongst the following seas is reported from" option = "Dead Sea~Red Sea~Black Sea~Mediterranean Sea" ans = "0" />
+
+<question question = " The Himalayan mountain system belongs to which of the following?" option = "Volcanic mountains~Residual mountains~Block mountains~Fold mountains" ans = "3" />
+
+<question question = " The heavy day soils that show significant expansion and contraction due to the presence or absence of moisture is called" option = "aridsols~vertisols~histosols~andisols" ans = "1" />
+
+<question question = " The HBJ Upgradation project, upgraded the capacity of HBJ pipeline from 18.2 MM SC MD to" option = "20 MM SC MD~33.4 MM SC MD~22.3 MM SC MD~29.6 MM SC MD" ans = "1" />
+
+<question question = " The highest mountains on earth namely Mount Everest, K2, Kanchenjanga are located in" option = "the greater Himalayas~the Lesser Himalayas~the outer Himalayas~None of the above" ans = "0" />
+
+<question question = " The infrared radiation by sun are strongly absorbed by" option = "carbon dioxide~water vapours~carbon dioxide and water vapours~ozone" ans = "0" />
+
+<question question = " The latitude of a place expresses its angular position relative to the plane of" option = "axis of earth~north pole~south pole~equator" ans = "3" />
+
+<question question = " The landforms that are influences by several process namely, weathering, erosion, deposition are known as" option = "polygenetic landforms~structural landforms~polycyclic landforms~None of the above" ans = "0" />
+
+<question question = " The initial increase of magnetic field in magnetic storms is caused" option = "when the shock wave, associated with the gusty solar wind, compresses the magnetosphere~when there is a large decrease in field intensity~when the gust wind itself engulfs the magnetosphere~None of the above" ans = "0" />
+
+<question question = " The island state of Australia is" option = "Victoria~Queensland~Tasmania~New South Wales" ans = "2" />
+
+<question question = " The Ice age ended about ____ years ago." option = "140~1,400~14,000~140,000" ans = "2" />
+
+<question question = " The languages used in China is" option = "Chinese, English~Chinese, Arabic~Chinese, French~Chinese, Korean" ans = "0" />
+
+<question question = " The islands with coral covered surfaces in Bay of Bengal are" option = "Andaman islands~Nicobar islands~both (a) and (b)~None of the above" ans = "1" />
+
+<question question = " Within the transporting medium, transport can occur by" option = "suspension~solution and traction~solution~All of the above" ans = "3" />
+
+<question question = " The length of the day is determined in" option = "astronomical units~solar terms~length of the hours~None of the above" ans = "0" />
+
+<question question = " The hot, dry wind on the east or leeward side of the Rocky mountains (North America) is called" option = "the Chinook~the Sirocco~the Harmattan~the Loo" ans = "0" />
+
+<question question = " The islands of Seychelles are located in the" option = "Arctic Ocean~Atlantic Ocean~Indian Ocean~Pacific Ocean" ans = "2" />
+
+<question question = " The island of Sri Lanka formerly known as" option = "Madagascar~Tasmania~Ceylon~None of the above" ans = "2" />
+
+<question question = " The highest sand dunes are found is" option = "the Shara desert~the Atacama desert~the Kalahari desert~the Gobi desert" ans = "0" />
+
+<question question = " The greatest variety of animal and plant species is fund in" option = "temperate grasslands~tropical moist forests~tundra regions~in hot deserts" ans = "1" />
+
+<question question = " The layer of the earth, immediately below the crust, is called" option = "outer core~inner core~inner mantle~outer mantle" ans = "3" />
+
+<question question = " The highest mountains in Africa, which is not part of any mountains chain, is" option = "Mt. Aconcagua~Mr. Kilimanjaro~Mt. Kosciusco~Mont Blanc" ans = "1" />
+
+<question question = " The heavier silicates named as 'Sima' or silica + magnesium are most abundant in the" option = "crust~core~mantle~ocean floors" ans = "3" />
+
+<question question = " The imaginary line on the earth's surface, which closely follows the 180 Âº meridian, is called the" option = "International Date Line~Tropic of Cancer~Equator~Prime Meridian" ans = "0" />
+
+<question question = " The largest part of our hydrosphere is" option = "Atlantic Ocean~Indian Ocean~Pacific ocean~Antarctica ocean" ans = "2" />
+
+<question question = " The limit beyond which the starts suffer internal collapse is called the" option = "Raman Effect~Chandrasekhar limit~Aurora Borealis~Quasan Zone" ans = "1" />
+
+<question question = " The ground water that occurs when flow of the subterranean water is not confined by the presence of impermeable layers is called" option = "unconfined groundwater~confined groundwater~aquifer~artesian" ans = "0" />
+
+<question question = " The gulf that separates Finland and Sweden in Europe is" option = "the Gulf of Bothnia~the Gulf of Lions~the Gulf of Genoa~the Gulf of Venice" ans = "0" />
+
+<question question = " The largest continent in the world is" option = "Africa~Asia~Australia~Antarctica" ans = "1" />
+
+<question question = " The landforms that are created by massive earth movements due to place tectonics are called" option = "structural landforms~weathering landforms~erosional landforms~depositional landforms" ans = "0" />
+
+<question question = " The largest production of mica in Asia is from" option = "Indonesia~Malaysia~Myanmar~India" ans = "3" />
+
+<question question = " The latitude 'AA' on the map represents the" option = "Tropic of Cancer~Tropic of Capricorn~Equator~None of the above" ans = "2" />
+
+<question question = " The largest fresh water lake of Africa, area wise is" option = "lake Victoria~lake Tanganyika~lake Malawi~lake Rudot" ans = "0" />
+
+<question question = " The important mountains of Europe include" option = "Andes, Alps, Pyrenees~Alps, Carpathians, Pyrenees, Apennines~Alps, Himalayas, Rock mountains~None of the above" ans = "1" />
+
+<question question = " The last major glacial period began about 2,000,000 years before present and is commonly known as" option = "Pleistocene or ice age~Paleocene or ice age~Pliocene or ice age~Holocene or ice age" ans = "0" />
+
+<question question = " The imaginary axis at which the earth rotates remains inclined at an angle of ____ to the plane of earth's orbit." option = "44 1/2 Âº~55 1/2 Âº~66 1/2 Âº~0 Âº" ans = "2" />
+
+<question question = " The ionosphere contains ionized air that protects the earth from" option = "the ultraviolet rays of the sun~the infrared rays of the sun~the falling meteorites~None of the above" ans = "2" />
+
+<question question = " The horizontal of soil profile is composed of" option = "weathered parent material that is not affected by translocation and organic modification~material affected by translocation and organic modification~unweathered bedrock~None of the above" ans = "0" />
+
+<question question = " The largest city in Latin America is" option = "Mexico city~Caracas~Rio-de-Janeiro~Buenos Aires" ans = "0" />
+
+<question question = " The highest and lowest values of a weather element observed over the entire period of record are" option = "extremes~average extremes~absolute extremes~relative extremes" ans = "2" />
+
+<question question = " The highest mountain peak of Oceania is" option = "Mt. Victoria, Papua New Guinea~Mt. Kosciusko, Australia~Mt. Cook, South Island (New Zealand)~Puncak Jaya, Indonesia." ans = "3" />
+
+<question question = " The largest gulf in the world is" option = "Gulf of Mexico~Persian Gulf~Gulf of Carpentaria~Gulf of Mannar" ans = "0" />
+
+<question question = " The hunting and gathering economy can support only" option = "1 person per sq. km~3 persons per sq. km~5 persons per sq. km~7 persons per sq. km" ans = "0" />
+
+<question question = " The import of crude oil and petroleum done from national oil companies of producer countries, which have a net exportable surplus of oil is by" option = "term contracts~term tenders~monthly tenders~All the above" ans = "0" />
+
+<question question = " The knowledge about the topography of the ocean basins has been derived from" option = "seismic surveying~echo sounder~side-scan sonar~All of the above" ans = "3" />
+
+<question question = " The headquarters of the Commonwealth of Independent States (CIS), formed out of erstwhile USSR, is at" option = "Minsk in Byelorussia~Moscow in Russia~Kiev in Ukraine~Kistiner in Moldavia" ans = "0" />
+
+
+<question question = " Guru Gopi Krishna was a maestro of which of the following dance forma?" option = "Kuchipudi~Kathak~Manipuri~Bahratanatyam" ans = "1" />
+
+<question question = "2. Ms. Bachendri Pal had undertaken a unique expedition for focusing attention on which of these?" option = "One Nation one Family~The Girl Child~National Integration~Sprit of Adventure" ans = "3" />
+
+<question question = "3. Which of the following fields A. Nageshwara Rao is associated with?" option = "Sports~Literature~Motion Pictures~Politics" ans = "2" />
+
+<question question = "4. Jamini Roy was a famous?" option = "Producer~Painter~Dancer~Actor" ans = "1" />
+
+<question question = "5. In which field 'Aachan Maharaj' has distinguished himself?" option = "Painting~Drama~Dance~Vocal Music" ans = "2" />
+
+<question question = "6. The name of Pierre Cardin is associated with which of the following fields?" option = "Painting~Films~Pop Music~Fashion Designing" ans = "3" />
+
+<question question = "7. Who is well known collector of artefacts and curios?" option = "Wadeyar~Salar Jung~Rabindra Nath Togore~Motilal Nehru" ans = "2" />
+
+<question question = "8. Ms. Vijaya Mehta has earned distinction in which of the field?" option = "Theatre~Film Direction~Classical Dance~Journalism" ans = "0" />
+
+<question question = "9. Dr. M. S. Swaminathan has distinguished himself in which of the following fields?" option = "Agriculture~Medicine~Astrophysics~Physics" ans = "0" />
+
+<question question = "0. Satyen Bose has shown his excellence in which of the following fields?" option = "Stage Acting~Drawing and Painting~Classical Dance~Motion Picture" ans = "3" />
+
+
+<question question = "1. Charles Correa has distinguished himself in which of the following fields?" option = "Painting~Ballet~Architecture~Western Music" ans = "2" />
+
+<question question = " Who declared that his ultimate aim was to wipe 'every tear from every eye'?" option = "Rajendra Prasad~Sardar Patel~Jawaharlal Nehru~Mahatma Gandhi" ans = "2" />
+
+<question question = "3. Ashok Pandit is known for his outstanding performance in which field?" option = "Wrestling~Kabaddi~Shooting~Swimming" ans = "2" />
+
+<question question = "4. Who among the following is a social activist campaigning against child labour?" option = "Baba Amte~Shabana Amzi~Mira Nair~Swami Agnivesh" ans = "3" />
+
+<question question = "5. Pandit K. G. Ginde, was well known for his contribution in the field of?" option = "Music~Sanskrit~Dance~Ayurveda" ans = "0" />
+
+
+<question question = "6. Who fits with this description 'Indian Cotton merchant, Banker, Congressman, a close associate of Mahatma Gandhi'?" option = "M. R. Jayakar~V. S. Sastri~G. D. Birla~Jamanlal Bajaj" ans = "2" />
+
+<question question = "7. Pandit Jasraj has established his reputation in which of the following fields?" option = "Music~Literature~Sanskrit~Dance" ans = "0" />
+
+<question question = "8. Ustad Nisar hussain Khan earned distinction in which of the following fields?" option = "Vocal Music~Instrumental music~Acting~Classical dance" ans = "0" />
+
+<question question = "9. R. K. Laxman is a renowned" option = "Dance master~Writer~Cartoonist~Journalist" ans = "2" />
+
+<question question = "0. Dr. Amiya Chakravarthy is known for his" option = "work in the Chipko movement~composing music for Ray's films~being literary Secretary to R. N. Tagore~patenting a living organism" ans = "2" />
+
+
+<question question = "1. The first woman in space was" option = "Valentina Tereshkova~Sally Ride~Naidia Comenci~Tamara Press" ans = "0" />
+
+<question question = "2. Mr. Sham Lal has dome commendable work in the field of?" option = "Journalism~Politics~Socail Service~Trade Unionism" ans = "0" />
+
+<question question = " Ali Akbar plays which of the following musical instruments?" option = "Flute~Tabla~Sitar~Sarod" ans = "3" />
+
+<question question = "4. Professor Malcolm Adiseshaih had earned worldwide distinction in which of the fields?" option = "Literature~Defence~Economics~Medicine" ans = "2" />
+
+<question question = "5. Samantha Fox is associated with" option = "Politics~Pop music~Journalism~Sports" ans = "1" />
+
+
+<question question = "1. Who among the following is not a dramatist?" option = "Girish R. Karnad~Hadal Sircar~Jayanta Mahapatra~Vijay Tendulkar" ans = "2" />
+
+<question question = "2. Who headed the committee on 'computerisation' in Indian Banks(1988)?" option = "C. Rangarajan~R.N. Malhotra~S. Venkitramanan~M.Narasimhan" ans = "3" />
+
+<question question = "3. Who is the famous Sarod player?" option = "Hari Prasad~Zakir Hussain~Ram Narain~Amjad Ali Khan" ans = "3" />
+
+<question question = "5. Shovna Narayan is a reputed personality in which of the following fields?" option = "Classical dance~Literature~Journalism~Classical music" ans = "0" />
+
+<question question = "7. Graham Green was associated with which of the fields?" option = "Science~Music~Painting~Literature" ans = "3" />
+
+<question question = "8. Dr. V. Kurien is famous in the field of ?" option = "Atomic Power~poultry farms~Dairy development~Economic Reforms" ans = "2" />
+
+
+<question question = "1. Who is Tania Sachdev?" option = "Chess player~Cricketer~Actress~Dancer" ans = "0" />
+
+<question question = "2. Limba Ram is associated in which fields?" option = "Sports~Politics~Social Service~Motion Picture" ans = "0" />
+
+<question question = "3. Mr. Meera Sahib Fathima Beevi is distinguished as the first lady" option = "Prime minister of Bangladesh~Judge of Supreme Court~Judge of the High court~Governor of a state" ans = "1" />
+
+<question question = "4. Who is the creator of the Rock Garden in Chandigarh?" option = "Pupal Jayakar~Le Corbousier~Glen~Nek Chand" ans = "3" />
+
+<question question = " Hitendra Desai was famous in the which field?" option = "Social Service~Journalism~Politics~Literature" ans = "2" />
+
+
+<question question = "1. Who is Larry Pressler?" option = "Politician~Painter~Actor~Tennis player" ans = "0" />
+
+<question question = "2. Pandit Vishwa Mohan Bhatt, who has won the prestigious 'Grammy Awards' is an exponent in which of the following musical instruments?" option = "Guitar~Violin~sarod~Tabla" ans = "0" />
+
+<question question = "3. Raja Ravi Verma, was famous in which of the fields?" option = "Painting~Politics~Dance~Music" ans = "0" />
+
+<question question = "4. Who is known as 'Desert Fox'?" option = "Bismarck~Eisenhower~Gen. Rommel~Walter Scott" ans = "2" />
+
+<question question = "5. The title of 'sparrow' given to" option = "Napoleon~Major General Rajinder Singh~T. T. Krishnamachari~Sardar Patel" ans = "1" />
+
+
+<question question = " Who headed the first scientific group to leave for Antarctica in 1982?" option = "Dr. D.R. Sengupta~Dr. S.Z. Kasim~Dr. V. K. Raina~Dr. H. K. Gupta" ans = "1" />
+
+<question question = "7. Which among the famous danseuses is not an exponent of the Odissi dance style?" option = "Sanjukta Panigrahi~Madhavi Mudgal~Sonal Man Singh~Yamini Krishnamurthy" ans = "3" />
+
+<question question = "8. Michael Jackson is a distinguished person in the field of?" option = "Pop Music~Jounalism~Sports~Acting" ans = "0" />
+
+<question question = "9. Ms Kim Campbell is the first woman Prime Minister of" option = "Portugal~Canada~Switzerland~Congo" ans = "1" />
+
+<question question = "0. The first Indian to swim across English channel was" option = "V. Merchant~P. K. Banerji~Mihir Sen~Arati Saha" ans = "2" />
+
+<question question = "1. Who is known as 'Indian Bismarck'?" option = "Kamaraj~Sardar Vallabhbhai Patel~Nehru~Rajaji" ans = "1" />
+
+
+<question question = " Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them?" option = "Tubby~Stodge~Helium Bat~Stumpy" ans = "3" />
+
+<question question = " Which was the 1st non Test playing country to beat India in an international match?" option = "Canada~Sri Lanka~Zimbabwe~East Africa" ans = "1" />
+
+<question question = " Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?" option = "Two~Three~Four~Eight" ans = "2" />
+
+<question question = " Which county did Ravi Shastri play for?" option = "Glamorgan~Leicestershire~Gloucestershire~Lancashire" ans = "0" />
+
+<question question = " Who was the first Indian to win the World Amateur Billiards title?" option = "Geet Sethi~Wilson Jones~Michael Ferreira~Manoj Kothari" ans = "1" />
+
+<question question = " Who is the first Indian woman to win an Asian Games gold in 400m run?" option = "M.L.Valsamma~P.T.Usha~Kamaljit Sandhu~K.Malleshwari" ans = "2" />
+
+
+<question question = " Which two counties did Kapil Dev play?" option = "Northamptonshire and Worcestershire~Northamptonshire and Warwickshire~Nottinghamshire and Worcestershire~Nottinghamshire and Warwickshire" ans = "0" />
+
+<question question = " When was Amateur Athletics Federation of India established?" option = "1936~1946~1956~1966" ans = "1" />
+
+<question question = " Who did Stone Cold Steve Austin wrestle at the 1998 edition of 'Over the Edge'?" option = "Cactus Jack~Mankind~Dude Love~Mick Foley" ans = "2" />
+
+<question question = "0. Ricky Ponting is also known as what?" option = "The Rickster~Ponts~Ponter~Punter" ans = "3" />
+
+<question question = " How long are professional Golf Tour players allotted per shot?" option = "45 seconds~25 seconds~1 minute~2 minutes" ans = "0" />
+
+<question question = "2. Which NBA player scoreed 8 points in the final 7 seconds of a game to lead his team to victory?" option = "Baron Davis~Kevin Garnett~Stephon Maurbury~Reggie Miller" ans = "3" />
+
+
+<question question = "3. In the match between India and Pakistan at Jaipur on 02-10-1983, Which new rule was introduced?" option = "Limit of overs was reduced to 50 overs~The rule of field restriction was taken.~Over throw runs were batsman's score~No-balls and wides were debited to bowlers analysis" ans = "3" />
+
+<question question = "4. The first hang gliders to be flown were flown in...?" option = "1600s~1700s~1800s~1900s" ans = "2" />
+
+<question question = "5. Which two counties did Anil Kumble play for?" option = "Nottinghamshire and Lancashire~Nottinghamshire and Leicestershire~Northamptonshire and Leicestershire~Northamptonshire and Lancashire" ans = "2" />
+
+<question question = "6. The nickname of Glenn McGrath is what?" option = "Ooh Ahh~Penguin~Big Bird~Pigeon" ans = "3" />
+
+<question question = "7. Mark Waugh is commonly called what?" option = "Afganistan~Junior~Tugga~Julio" ans = "1" />
+
+<question question = "8. India won its first Olympic hockey gold in...?" option = "1928~1932~1936~1948" ans = "0" />
+
+
+<question question = "9. How many times did Geet Sethi win the lBSF World Billiards title?" option = "2~3~4~5" ans = "1" />
+
+<question question = "0. In which year did Milkha Singh win the first National title in the 400 m race?" option = "1955~1956~1957~1970" ans = "2" />
+
+<question question = "1. Who won the 1993 'King of the Ring'?" option = "Owen Hart~Bret Hart~Edge~Mabel" ans = "1" />
+
+<question question = " What NHL goaltender has the most career wins?" option = "Grant Fuhr~Patrick Roy~Chris Osgood~Mike Vernon" ans = "0" />
+
+<question question = "3. What Major League Baseball player holds the record for all-time career high batting average?" option = "Ty Cobb~Larry Walker~Jeff Bagwell~Frank Thomas" ans = "0" />
+
+<question question = "4. Who among the following is NOT associated with billiards in India?" option = "Subash Agrawal~Ashok Shandilya~Manoj Kothari~Mihir Sen" ans = "3" />
+
+
+<question question = "5. Which player has scored the most runs in a single Test innings?" option = "Graham Gooch~Matthew Hayden~Brian Lara~Agarkar" ans = "2" />
+
+<question question = "6. Who was the 1st ODI captain for India?" option = "Ajit Wadekar~Bishen Singh Bedi~Nawab Pataudi~Vinoo Mankad" ans = "0" />
+
+<question question = "7. Where did India play its 1st one day international match?" option = "Lords~Headingley~Taunton~The Oval" ans = "1" />
+
+<question question = "8. India reached the final of the Davis Cup for the first time in...?" option = "1964~1966~1970~1974" ans = "1" />
+
+<question question = "9. The Asian Games were held in Delhi for the first time in...?" option = "1951~1963~1971~1982" ans = "0" />
+
+<question question = "0. What Australian player was known as 'Fruitfly' amongst the rest of the team?" option = "Geoff Lawson~Merv Hughes~Mike Veletta~Mike Whitney" ans = "1" />
+
+
+<question question = "1. Which county did Mohammad Azharuddin play for?" option = "Yorkshire~Hampshire~Lancashire~Derbyshire" ans = "3" />
+
+<question question = "2. The first hand glider was designed by...?" option = "Leonardo DaVinci~The Wright brothers~Francis Rogallo~Galileo" ans = "0" />
+
+<question question = " Which county did Sunil Gavaskar play for?" option = "Somerset~Worcestershire~Warwickshire~Glamorgan" ans = "0" />
+
+<question question = "4. The 'Dronacharya Award' is given to...?" option = "Sportsmen~Coaches~Umpires~Sports Editors" ans = "1" />
+
+<question question = "5. In which Indian state did the game of Polo originate?" option = "Meghalaya~Rajasthan~Manipur~West Bengal" ans = "2" />
+
+<question question = "6. What do African-American football players Ernie Davis, Archie Griffin, and Tony Dorsett have in common?" option = "They all played for Pittsburgh~They all won the Heisman Trophy~They all led to Super Bowl titles~They dont have any similarity" ans = "1" />
+
+
+<question question = "7. Which cricketer died on the field in Bangladesh while playing for Abahani Club?" option = "Subhash Gupte~M.L.Jaisimha~Lala Amarnath~Raman Lamba" ans = "3" />
+
+<question question = "8. Which of the following is a Manipuri version of Hockey?" option = "Khong Kangjei~Hiyang Tanaba~Yubi Lakpi~Yubi-Lakpi" ans = "0" />
+
+<question question = "9. Which county did Javagal Srinath sign for in 2003?" option = "Surrey~Durham~Sussex~Essex" ans = "1" />
+
+<question question = "0. Which county did Sachin Tendulkar play for?" option = "Nottinghamshire~Yorkshire~Lancashire~Leicestershire" ans = "1" />
+
+<question question = "1. Who did Shawn Michaels beat to win his first Intercontinental Title?" option = "Bret Hart~Marty Jannetty~British Bulldog~Tito Santana" ans = "2" />
+
+<question question = "2. Where did the 1st ODI match was played in India?" option = "New Delhi~Ahmedabad~Kolkata~Mumbai" ans = "1" />
+
+
+<question question = "3. Who had a torrid time with Lancashire in 2000?" option = "Sachin Tendulkar~Nayan Mongia~Javagal Srinath~Saurav Ganguly" ans = "3" />
+
+<question question = " What is the name of the person that controls a football match?" option = "A referee~An umpire~A spectator~A goalkeeper" ans = "0" />
+
+<question question = "5. Former Australian captain Allan Border was sometimes known as 'Captain Grumpy'. What was his other nickname?" option = "Abe~Captain Junior~AB~Groucho" ans = "2" />
+
+<question question = "6. The Indian football team made its first appearance at Olympics in...?" option = "1936~1948~1952~1956" ans = "1" />
+
+<question question = "7. Who was the first captain of Indian Test team?" option = "Vijay Hazare~C K Nayudu~Lala Amarnath~Vijay Merchant" ans = "1" />
+
+<question question = "8. Fenway Park is the home field of what Major League Baseball team?" option = "New York Yankees~Chicago White Sox~Montreal Expos~Boston Red Sox" ans = "3" />
+
+
+<question question = "9. Pravin Amre and Vinod Kambli played for which province in South Africa?" option = "Border~Boland~Griqualand West~Gauteng" ans = "1" />
+
+<question question = "0. Which football hero was nicknamed 'The Sundance Kid'?" option = "Jim Kiick~Troy Aikman~Brett Favre~Joe Montana" ans = "0" />
+
+<question question = "1. Which country won the Cricket World Cup in 1999?" option = "Australia~South Africa~Pakistan~England" ans = "0" />
+
+<question question = "2. Who did The Rock beat to win his first WWE Title?" option = "Triple H~Stone Cold Steve Austin~Mankind~Bret Hart" ans = "2" />
+
+<question question = "3. The name Kunjarani Devi is associated with...?" option = "Weight Lifting~Target shooting~Athletics~Swimming" ans = "0" />
+
+<question question = "4. In what year was the first international cricket match held?" option = "1892 between England and India~1869 between England and Australia~1883 between Australia and Wales~1844 between Canada and the USA" ans = "3" />
+
+
+<question question = " How many gold medals have been won by India in the Olympics so far?" option = "4~8~9~10" ans = "2" />
+
+<question question = "6. Who did The Rock wrestle in the main event at the 1999 edition of 'Wrestlemania'?" option = "Stone Cold Steve Austin~Triple H~Mankind~Undertaker" ans = "0" />
+
+<question question = "7. Which English county did batting sensation Virender Sehwag join in the 2003 season?" option = "Lancashire~Leicestershire~Yorkshire~Middlesex" ans = "1" />
+
+<question question = "8. Who has scored the most Test hundreds ever?" option = "Steve Waugh~Sachin Tendulkar~Shane Warne~Sunil Gavaskar" ans = "1" />
+
+<question question = "9. When was the first cricket Test match played?" option = "1873~1877~1870~1788" ans = "1" />
+
+<question question = "0. Which track and field star overcame childhood polio to become one of the greatest athletes of her time?" option = "Wilma Rudolph~Gail Devers~Florence Griffith Joyner~Jackie Robinson" ans = "0" />
+
+
+<question question = " How many gold medals have been won by India in the Olympics so far?" option = "4~8~9~10" ans = "2" />
+
+<question question = "6. Who did The Rock wrestle in the main event at the 1999 edition of 'Wrestlemania'?" option = "Stone Cold Steve Austin~Triple H~Mankind~Undertaker" ans = "0" />
+
+<question question = "7. Which English county did batting sensation Virender Sehwag join in the 2003 season?" option = "Lancashire~Leicestershire~Yorkshire~Middlesex" ans = "1" />
+
+<question question = "8. Who has scored the most Test hundreds ever?" option = "Steve Waugh~Sachin Tendulkar~Shane Warne~Sunil Gavaskar" ans = "1" />
+
+<question question = "9. When was the first cricket Test match played?" option = "1873~1877~1870~1788" ans = "1" />
+
+<question question = "0. Which track and field star overcame childhood polio to become one of the greatest athletes of her time?" option = "Wilma Rudolph~Gail Devers~Florence Griffith Joyner~Jackie Robinson" ans = "0" />
+
+
+<question question = "7. Who was the first Indian to win an individual medal in Olympics?" option = "Milkha Singh~P.T.Usha~Karnam Malleshwari~K.D.Jadhav" ans = "3" />
+
+<question question = "8. Which county did speedster Javagal Srinath play for in 1995?" option = "Kent~Glamorgan~Gloucestershire~Leicestershire" ans = "2" />
+
+<question question = "9. Stripped of his heavyweight title in 1967 for refusing induction into the U.S. military, Muhammad Ali regained the heavyweight championship on October 30, 1974, in Kinshasa, Zaire with an eighth-round knockout of which prizefighter?" option = "George Foreman~Joe Frazier~Leon Spinks~Sputnik" ans = "0" />
+
+<question question = "0. Undertaker wrestled Yokozuna at the 1994 'Royal Rumble'. This was a Casket Match. Undertaker wrestled in another Casket Match at the 1998 'Royal Rumble'. Who did he wrestle?" option = "Yokozuna~Shawn Michaels~Mabel~Triple H" ans = "1" />
+
+<question question = "1. With which sport is the 'Choudhury Trophy' associated?" option = "Golf~Circumnavigation of the earth by car~Formula One racing~Buggy-Jumping" ans = "1" />
+
+<question question = "2. The nickname of wicketkeeping great Rod Marsh was what?" option = "Billabong~Swampy~Bacchus~Lagoon" ans = "2" />
+
+
+<question question = "3. Who was the 1st president of BCCI ( Board of Control for Cricket in India )?" option = "R.E. Grant Govan~Dr. Maharajkumar Sir Vijaya Ananda~Sikandar Hyat Khan~Anthony S. D'Mello" ans = "0" />
+
+<question question = "4. How many gold medals did P.T.Usha win in the 1986 Seoul Asian Games?" option = "1~2~3~4" ans = "3" />
+
+<question question = "5. Who holds second and third place for most yards rushing in a single season in the NFL?" option = "Barry Sanders~Jim Brown~OJ Simpson~Dick Lane" ans = "2" />
+
+<question question = "6. Which of the following countries won the final of the triangular cricket series held in durban in februarry 1997?" option = "India~New zealand~South africa~Zimbabwe" ans = "2" />
+
+<question question = " Who has scored the most runs in a single First-class innings?" option = "Hanif Mohammad~Brian Lara~Sir Donald Bradman~Sachin Tendulkar" ans = "1" />
+
+
+<question question = " The Battle of Plassey was fought in" option = "1757~1782~1748~1764" ans = "0" />
+
+<question question = " The territory of Porus who offered strong resistance to Alexander was situated between the rivers of" option = "Sutlej and Beas~Jhelum and Chenab~Ravi and Chenab~Ganga and Yamuna" ans = "1" />
+
+<question question = " Under Akbar, the Mir Bakshi was required to look after" option = "military affairs~the state treasury~the royal household~the land revenue system" ans = "0" />
+
+<question question = " Tripitakas are sacred books of" option = "Buddhists~Hindus~Jains~None of the above" ans = "0" />
+
+<question question = " The trident-shaped symbol of Buddhism does not represent" option = "Nirvana~Sangha~Buddha~Dhamma" ans = "0" />
+
+
+<question question = " The theory of economic drain of India during British imperialism was propounded by" option = "Jawaharlal Nehru~Dadabhai Naoroji~R.C. Dutt~M.K. Gandhi" ans = "1" />
+
+<question question = " The treaty of Srirangapatna was signed between Tipu Sultan and" option = "Robert Clive~Cornwallis~Dalhousie~Warren Hastings" ans = "1" />
+
+<question question = " The system of competitive examination for civil service was accepted in principle in the year" option = "1833~1853~1858~1882" ans = "1" />
+
+<question question = " Through which one of the following, the king exercised his control over villages in the Vijayanagar Empire?" option = "Dannayaka~Sumanta~Nayaka~Mahanayakacharya" ans = "3" />
+
+<question question = "0. The Vijayanagara ruler, Kirshnadev Raya's work Amuktamalyada, was in" option = "Telugu~Sanskrit~Tamil~Kannada" ans = "0" />
+
+
+<question question = " Under an agreement with which of the following countries did Subhas Chandra Bose organize the Indian soldiers, taken as prisoners by the Axis Powers, into the Azad Hind Fauj?" option = "China~Germany~Italy~Japan" ans = "3" />
+
+<question question = "2. We hear of two envoys being sent to the Roman kings, one in 27-28 AD to the court of Augustus and the other in 110-20 AD to the court of" option = "Cartius~Trajan~Nero~Brutus" ans = "1" />
+
+<question question = "3. The use of Kharoshti in ancient Indian architecture is the result of India's contact with" option = "Central Asia~Iran~Greece~China" ans = "2" />
+
+<question question = "5. The troops raised by the emperor but not paid directly the state and place under the charge of mansabadars were know as" option = "Walashahi~Barawardi~JCumaki~Dakhili" ans = "3" />
+
+
+<question question = "6. The treaty of Mangalore was signed between" option = "the English East India Company and Haidar Ali~the English East India Company and Tipu Sultan~Haidar Ali and the Zamorin of Calicut~the French East India Company and Tipu Sultan" ans = "1" />
+
+<question question = "7. To conquer and annex Peshawar and Punjab, Mahmud of Ghazni defeated" option = "Ghurids~Arabs~Karkotakas~Hindushahis" ans = "3" />
+
+<question question = "8. To which professions earlier leaders who struggled for freedom of India mainly belonged?" option = "Lawyers~Teachers~Journalists~All of the above" ans = "3" />
+
+<question question = "9. The victories of Karikala are well portrayed in" option = "Palamoli~Aruvanad~Pattinappalai~Padirrupattu" ans = "2" />
+
+<question question = "0. Todar Mal was associated with" option = "music~literature~land revenue reforms~law" ans = "2" />
+
+
+<question question = "1. The title of 'Viceroy' was added to the office of the Governor-General of India for the first time in" option = "1848 AD~1856 AD~1858 AD~1862 AD" ans = "2" />
+
+<question question = " To which of the following dynasties did Kind Bhoja, a great patron of literature and art, belong?" option = "Karkota~Utpala~Paramara~Gurjara Pratihara" ans = "2" />
+
+<question question = "3. Vikramaditya, a king of Ujjain, started the Vikrama samvat in 58 BC in commemoration of his victory over" option = "Indo-Greeks~Sakas~Parthinas~Kushanas" ans = "1" />
+
+<question question = "4. Two of the great Mughals wrote their own memories. There were" option = "Babar and Humayun~Humayun and Jahangir~Babar and Jahangir~Jahangir and Shahjahan" ans = "2" />
+
+<question question = "5. To which king belongs the Lion capitol at Sarnath?" option = "Chandragupta~Ashoka~Kanishka~Harsha" ans = "1" />
+
+
+<question question = "6. The use of spinning wheel (Charkha) became common during the" option = "9th Century AD~10th Century AD~12th Century AD~14th Century AD" ans = "3" />
+
+<question question = "7. The language of discourses of Gautama Buddha was" option = "Bhojpuri~Magadhi~Pali~Sanskrit" ans = "2" />
+
+<question question = "8. There were widespread risings against the British in the 1820s. Which one of the following did not revolt in the 1820s?" option = "Santhals~Ahoms~Pagal Panthis~Ramosi" ans = "0" />
+
+<question question = "9. Velu Thampi led a revolt against the British in state of" option = "Travancore~Baroda~Hyderabad~Mysore" ans = "0" />
+
+<question question = "0. Under the Mountbatten Plan of 1947 the people of ___ were given the right to decide through a plebiscite whether they wished to join Pakistan or India." option = "Assam~Punjab~Bengal~N.W.F.P and the Sylhet district of Assam" ans = "3" />
+
+
+<question question = "6. There was a sharp class division at Harappa and Mohen-jodaro. This is clear from the" option = "Indus seals excavated~religious beliefs of the Harappans~tools and implements used by the Harappans~different types of dwellings excavated" ans = "3" />
+
+<question question = "7. The title given by the British Government to Mahatma Gandhi which he surrendered during the non-cooperation movement was" option = "Hind Keasri~Kaiser-e-Hind~Rai Bahadur~Rt. Honorable" ans = "1" />
+
+<question question = "8. Tipu sultan was the ruler of" option = "Hyderabad~Madurai~Mysore~Vijayanagar" ans = "2" />
+
+<question question = "9. The term yavanika meant" option = "foreign goods~dancer~curtain~theatre" ans = "2" />
+
+<question question = "0. The term Khalisa in Mughal administration signified the" option = "entire Imperial establishment~land owned b the emperor himself~religious land grants~land from where revenue was collected for the Imperial Treasury" ans = "1" />
+
+
+<question question = "1. Visakhadatta sketches the event after the death of Samudragupta in his work" option = "Mudrarakasam~Devi Chand Guptam~Mrichekakatika~Malavikagnimitra" ans = "0" />
+
+<question question = "2. The system of Dual Government during the latter half of the 18th century AD is associated with the name of" option = "Clive~Comwallis~Waren Hastings~William Bentinck" ans = "0" />
+
+<question question = "3. 'The Vedas contain all the truth was interpreted by" option = "Swami Vivekananda~Swami Dayananda~Raja Rammohan Roy~None of the above" ans = "1" />
+
+<question question = " The term samanta, meaning a feudatory from the sixth century AD, originally meant a" option = "slave~cultivator~neighbor~foreigner" ans = "2" />
+
+<question question = "5. To evolve a peaceful settlement of the conflict between India and China, which of the following non-aligned Afro-Asian nations participated in a conference held in December 1962?" option = "Burma (now Myanmar), Combodia, Indonesia and UAR~Burma, Sri Lanka, Combodia and Indonesia~Burma, Indonesia, Ghana and Sri Lanka~All of the above" ans = "3" />
+
+
+<question question = "6. The text of the document called Mahzar, by which Akbar assumed the role of supreme arbiter in the matters of religion is found in" option = "Nizamuddin's Tabaqat-I-Akbari~Arif Quandahari's Tarikh-I-Alfi~Abul Fazl's Akbarnama~Badauni's Muntakahab-ut-Tawarikh" ans = "2" />
+
+<question question = "7. Tulsidas, the author of Ramcharitmanas, was a contemporary of which of the following rulers?" option = "Akbar~Humayun~Shahjahan~Sher Shah Suri" ans = "0" />
+
+<question question = "8. To meet the educational needs of the people, the Madarasa-I Nasiri was built in the region of" option = "Qutub-ud-din Aibak~Iltutmish~Ruknuddin Firoz Shah~Jalal-id-din Khilji" ans = "1" />
+
+<question question = "9. The weekly Commonweal was founded by" option = "Annie Besant~Bipan Chandra Pal~Bal Gangadhar Tilak~Sarojini Naidu" ans = "0" />
+
+<question question = "0. Ustad Mansur was a famous painter in the region of" option = "Shajahan~Akbar~Humayun~Jahangir" ans = "3" />
+
+
+<question question = "1. The Vedic deity Indra was the Goddess of" option = "wind~eternity~rain and thunder~fire" ans = "2" />
+
+<question question = "2. Tolkappiyam is associated with the" option = "first Sangam period~second Sangam period~third Sangam period~post-third Sangam period" ans = "1" />
+
+<question question = "3. Pulakesin II was the most famous ruler of" option = "Chalukyas~Cholas~Pallavas~Satavahanas" ans = "0" />
+
+<question question = "4. The term Brahmadeya occurs for the first time in" option = "early Vedic texts~early Buddhist texts~pre-Gupta inscriptions~post-Gupta inscriptions" ans = "2" />
+
+<question question = " Under whose leadership was the all India Muslim League set up?" option = "Mohammed Ali Jinnah~Sayyid Ahmed Khan~Aga Khan~All of the above" ans = "2" />
+
+
+<question question = "6. Though Ashoka had many sons, the inscriptions mentioned only one who is not mentioned in any other source. He is" option = "Kunala~Tivara~Mahendra~Jalauka" ans = "1" />
+
+<question question = "7. We can know about early vedic period from" option = "archaeological excavations~the Rig Veda~Jatak Katha~contemporary culture" ans = "1" />
+
+<question question = "8. The Upanishads are" option = "a source of Hindu philosophy~books of ancient Hindu laws~books on social behavior of man~prayers to God" ans = "0" />
+
+<question question = "9. Universities in the Presidency towns in India were established in" option = "1857~1858~1900~1909" ans = "0" />
+
+<question question = "1. Under the Guptas in eastern India, there was probably an intermediate level of administration between vishayas (districts) and villages. Identify it." option = "Bhukit~Pradesa~Vifhi~Ahara" ans = "2" />
+
+<question question = "2. The two principles monuments of Alaud-din Khilji's reign - the Jama at Kana Masjid and Alai Darwaza - were constructed at" option = "Agra~Delhi~Dhar~Gulbarga" ans = "1" />
+
+<question question = "3. The term Nirgrantha is associated with" option = "Ajivikas~Charvakas~Jainas~Pasupatas" ans = "2" />
+
+<question question = "4. The Kalinga was fought in" option = "321 BC~301 BC~261 BC~241 BC" ans = "2" />
+
+<question question = "5. Under the Government of India, Provincial Legislatures consisted of two chambers, except in the case of" option = "Assam~Bihar~Madras~Punjab" ans = "3" />
+
+
+<question question = " The Venetian traveler who travelled with his wife and reached Vijayanagar around 1420 was" option = "Athanasius Nikitin~Nicolo de Conti~Ibn Batuta~Ferishta" ans = "1" />
+
+<question question = "7. The year 788 AD was a good one for Hinduism. Why?" option = "Shankracharya was born that year.~Harsha Vardhana, the last Buddhist king, died.~Samudragupta converted to Hinduism.~All Muslim invaders were defeated." ans = "0" />
+
+<question question = "8. The Uprising of 1857 was described as the first Indian war of Independence by" option = "S.N. Sen~R.C. Mazumdar~B.G. Tilak~V.D. Savakar" ans = "3" />
+
+<question question = "9. The twenty-third Jaina teacher, Parsva, the immediate predecessor of Mahavira enjoined on his disciples four great vows. To these Mahavira addes which of the followings as the fifth vow?" option = "Abstention from stealing~Non-injury~Brahmacharya or continence~Non-attachment" ans = "2" />
+
+<question question = "0. The Turko-Afghan rule in India lasted for about" option = "two centuries~three centuries~four centuries~a little over one century" ans = "1" />
+
+<question question = "0. The Vijayanagara king who employed skilled archers of the Turkish clan and raised the fighting capacity of his bowmen was" option = "Bukka I~Devaraya I~Krishnadevaraya~Ramaraya" ans = "1" />
+
+</KBC>    
