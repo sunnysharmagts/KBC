@@ -10,7 +10,7 @@ This project requires a Android sdk & eclipse for build. You can checkout the la
 
 ## Built With
 
-* [Android SDK] (https://developer.android.com/studio/?gclid=EAIaIQobChMIkKrz6bT73gIV9f_jBx2_iwycEAAYASAAEgLNEPD_BwE) - Android development kit
+* [Android SDK](https://developer.android.com/studio/?gclid=EAIaIQobChMIkKrz6bT73gIV9f_jBx2_iwycEAAYASAAEgLNEPD_BwE) - Android development kit
 * [Eclipse](https://www.eclipse.org/) - Editor
 
 ## Contributing
